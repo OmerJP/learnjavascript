@@ -1,2 +1,3 @@
-console.log('Hi'); 
+console.log('Hi'); //this is a console message
+
 
